@@ -2,6 +2,8 @@ If you have questions, please contact me at oferlaor AT gmail (or DM me @oferlao
 
 Some examples for iOS 12 shortcuts (you know, for the LOLs).
 
+DOWNLOADING? Open this page with your iPhone/iPad, press "view code". Click on the file you would like to open and then download binary (these are binary encoded files). Now, send the downloaded file to "Shortcuts" app.
+
 1. IMDB info - dictate a movie title and it will read you the IMDB synopsis. 
   -- Pretty nice example of how to fetch HTML, parse it using simple regex and convert the results into usable data
   
